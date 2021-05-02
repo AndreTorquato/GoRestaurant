@@ -72,6 +72,10 @@ $ cd GoRestaurant
 # Install the dependencies
 $ yarn install
 
+
+# Start fake API
+$ yarn server
+
 # Start the client
 $ yarn start
 ```
